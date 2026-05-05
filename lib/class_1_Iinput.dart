@@ -106,7 +106,7 @@ class FlutterInput extends StatelessWidget {
 
                     if (password.length < 6) {
                       debugPrint("Password is too short");
-                      print("heello");
+                      
                     } else {
                       debugPrint("Login Successful");
                     }
